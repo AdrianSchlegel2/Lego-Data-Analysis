@@ -1,2 +1,2 @@
 # Lego-Data-Analysis
-Analyses a series of Lego datasets
+Analyses a series of Lego datasets using the **Jupyter Notebook** IDE. Apart from that I also created line graphs with 2 different y axes as to give out more accurate data. I also created bar graphs using the **matplotlib** library and also merged two different dataframes using the **pandas** library. I also experimented a little bit with Markdown by implementing images and different types of headings.
